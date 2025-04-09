@@ -8,9 +8,7 @@ body {
 
 header {
   padding: 4rem 1rem;
-  text-align: center;
-  background: #a15a38;
-  color: white;
+  text-align: left;
 }
 
 header h1 {
