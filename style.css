@@ -43,3 +43,21 @@ footer {
   background: #ddd;
   margin-top: 2rem;
 }
+
+/* Contact section styling */
+.contact-container {
+  margin: 2rem;
+  padding: 1rem;
+  background: white;
+  width: 300px;
+  text-align: left;
+  border-radius: 8px;
+}
+
+.contact-container h2 {
+  margin-top: 0;
+}
+
+.contact-container p {
+  margin: 10px 0;
+}
