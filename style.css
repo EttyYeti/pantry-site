@@ -51,6 +51,9 @@ footer {
   background: white;
   text-align: left;
   border-radius: 8px;
+}
+
+.contact-container break {
   word-wrap: break-word;
   overflow-wrap: break-word;
 }
