@@ -64,8 +64,32 @@ footer {
   margin: 10px 0;
 }
 
+/* Footer before the footer for socials */
 .social-footer {
-  background-color: #3b5998; /* Light gray background */
+  display: flex;
+  align-items: center; /* Vertically center the text and image */
+  background-color: #f0f0f0;
   padding: 10px;
   text-align: center;
+}
+
+.social-footer img {
+  width: 30px; /* Adjust the size of the image */
+  height: auto;
+  margin-right: 10px; /* Space between the image and the text */
+}
+
+.social-footer p {
+  margin: 0; /* Remove margin from paragraph */
+}
+
+.social-footer a {
+  display: flex;
+  align-items: center;
+  color: #3b5998; /* Facebook blue color */
+  text-decoration: none;
+}
+
+.social-footer a:hover {
+  text-decoration: underline;
 }
