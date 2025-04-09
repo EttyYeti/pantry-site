@@ -63,3 +63,9 @@ footer {
 .contact-container p {
   margin: 10px 0;
 }
+
+.social-footer {
+  background-color: #3b5998; /* Light gray background */
+  padding: 10px;
+  text-align: center;
+}
