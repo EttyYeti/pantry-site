@@ -47,7 +47,7 @@ footer {
   width: 60%; /* Makes the image stretch across the page */
   height: auto; /* Keeps the aspect ratio of the image */
   display: block; /* Removes any extra space below the image */
-  margin: 20px 0; /* Adds space above and below the image */
+  margin: 20px auto; /* Adds space above and below the image */
 }
 
 /* Contact section styling */
